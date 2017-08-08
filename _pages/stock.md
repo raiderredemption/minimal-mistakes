@@ -1,7 +1,6 @@
 ---
-title: "What's in stock"
+title: "What we sell"
 layout: single
-excerpt: "What's in stock"
 permalink: /stock.html
 ---
 

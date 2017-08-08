@@ -1,7 +1,6 @@
 ---
 title: "Contact us"
 layout: single
-excerpt: "Contact us"
 permalink: /contact.html
 ---
 

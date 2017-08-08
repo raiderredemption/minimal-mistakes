@@ -1,7 +1,6 @@
 ---
-title: "About"
+title: "About us"
 layout: single
-excerpt: "About"
 permalink: /about.html
 ---
 

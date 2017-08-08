@@ -2,9 +2,9 @@
 main:
   - title: "What's new"
     url: /whats-new/
-  - title: "About"
+  - title: "About us"
     url: /about
   - title: "What we sell"
     url: /stock
-  - title: "Contact"
+  - title: "Contact us"
     url: /contact
