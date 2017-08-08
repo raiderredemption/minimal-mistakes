@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "All moved in"
 date:   2017-08-07 22:58:00 -0500
 ---
