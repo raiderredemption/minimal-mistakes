@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Raider Redemption"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+name                     : "Raider Redemption"
+description              : "Home of Raider Redemption in Winslow, Maine."
+url                      : "https://raiderredemption.github.io"
+baseurl                  : 
+repository               : raiderredemption/raiderredemption.github.io
+teaser                   : /images/logo.pdf
+
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -57,7 +57,7 @@ yandex_site_verification :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : RaiderRedemption
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Steve Veilleux"
+  avatar           : /images/steve.jpg
+  bio              : "Founder and owner"
+  location         : "Winslow, Maine"
   email            :
   uri              :
   bitbucket        :
