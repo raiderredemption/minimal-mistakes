@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "What's new"
-    url: /whats-new/
   - title: "About us"
     url: /about
   - title: "What we sell"
     url: /stock
+  - title: "What's new"
+    url: /whats-new/
   - title: "Contact us"
     url: /contact
